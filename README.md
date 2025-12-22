@@ -32,6 +32,6 @@ graph LR
 ├── perception_model.py     # Neural Network architecture and training pipeline
 ├── agent_engine.py         # The ReAct logic and autonomous decision-making scripts.
 ├── data_processor.py       # Feature engineering, One-Hot Encoding, and Scaling.
-├── demo_notebook.ipynb     # End-to-end walkthrough for reviewers.
+├── demo_notebook_SF.ipynb     # End-to-end walkthrough for reviewers.
 ├── requirements.txt        # Dependency list (TensorFlow, SHAP, Scikit-Learn).
 └── models/                 # Pre-trained model weights (.keras format).
