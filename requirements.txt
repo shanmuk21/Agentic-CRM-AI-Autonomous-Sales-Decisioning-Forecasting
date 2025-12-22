@@ -1,0 +1,17 @@
+# Core Machine Learning Framework
+tensorflow==2.15.0
+keras==2.15.0
+
+# Data Processing and Numerical Operations
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.3.2
+
+# Explainable AI (XAI) and Visualization
+shap==0.44.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Environment and Utility
+ipykernel==6.28.0
+joblib==1.3.2
